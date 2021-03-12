@@ -1,2 +1,3 @@
 Adymx RESOLUSI :
 - Konsisten untuk belajar PHP 
+- Membuat Origin Web dan mengelolanya
